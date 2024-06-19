@@ -7,10 +7,11 @@ To use it, you'll need a relatively recent copy of node. Then just clone the rep
 
 `npm install`
 
-`npm start`
-or, if you prefer
-`npm run build`
-`serve -s build`
+then
+- `npm start`
+- or, if you prefer
+   - `npm run build`
+   - `serve -s build`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
